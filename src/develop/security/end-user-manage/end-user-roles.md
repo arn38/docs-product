@@ -1,7 +1,9 @@
+#Revoke all permision
 ---
 summary: Learn about granting roles to end users and revoking them in the Users application.
 tags: support-Mobile_Apps; support-webapps
 ---
+Grant privacy and security
 
 # Grant and Revoke End User Roles
 
